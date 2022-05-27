@@ -1,2 +1,0 @@
-# vk.com-React
-copyReact
